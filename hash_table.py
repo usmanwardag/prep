@@ -1,6 +1,6 @@
 # https://www.youtube.com/watch?v=C4Kc8xzcA68
 #
-# Python list accesses every time at equal speed because
+# Python list accesses every index at equal speed because
 # it uses segments of RAM which are zero-indexed and are
 # addressed by sequential integers.
 #
